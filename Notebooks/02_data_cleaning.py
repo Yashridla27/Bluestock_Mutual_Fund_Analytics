@@ -1,3 +1,16 @@
+"""
+Mutual Fund Analytics Capstone Project
+
+File: 02_data_cleaning.py
+
+Purpose:
+Performs data cleaning, validation, and preprocessing on raw mutual fund datasets.
+This includes handling missing values, removing inconsistencies, validating data types,
+and generating cleaned datasets for further analysis and reporting.
+
+Author: Yash Ridla
+Date: June 2026
+"""
 import pandas as pd
 
 # Load NAV History dataset

@@ -1,3 +1,15 @@
+"""
+Mutual Fund Analytics Capstone Project
+
+File: 01_data_ingestion.py
+
+Purpose:
+Loads raw mutual fund datasets from CSV files and performs initial data ingestion
+for further ETL and analytical processing.
+
+Author: Yash Ridla
+Date: June 2026
+"""
 import pandas as pd
 import os
 
